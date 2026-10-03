@@ -38,5 +38,7 @@ No qubits were intentionally harmed during the writing of this README. The same 
 
 
 **Status:** Active Development
+
 **Domain:** Quantum Communication & Information Science
+
 **Licence:** All Rights Reserved.
